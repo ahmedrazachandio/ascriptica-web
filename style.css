@@ -1,0 +1,309 @@
+.cost {
+  margin-left: auto !important;
+}
+.cos-bt {
+  font-family: "Inter", Sans-serif;
+  letter-spacing: 0.6px;
+  background-color: #055496;
+  border-radius: 30px;
+}
+.image {
+  background-color: #f0f9fc;
+}
+.coustomMargin {
+  margin-top: 139px;
+}
+.welcomeHeading {
+  color: #454545;
+  padding-left: 6px;
+  font-family: "Inter", Sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+}
+.learningHeading {
+  color: #055496;
+  font-family: "PT Serif", Sans-serif;
+  font-size: 38px;
+  font-weight: bold;
+  line-height: 60px;
+  letter-spacing: 1px;
+}
+.systemPara {
+  font-family: "PT Serif", Sans-serif;
+  font-size: 16px;
+  line-height: 41px;
+  letter-spacing: 1px;
+}
+
+.btn-border-radius {
+  border-radius: 30px;
+}
+.about-ascriptica {
+  color: #055496;
+  font-family: "PT Serif", Sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+}
+.coustom-padding {
+  padding-top: 40px;
+}
+
+.about-text {
+  padding-top: 20px;
+  letter-spacing: 1px;
+  text-align: justify;
+}
+
+/* Testimonial CSS Code Start */
+/* background */
+.coustomer {
+  color: black;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  font-family: "PT Serif", Sans-serif;
+  font-size: 30px;
+  font-weight: 500;
+  word-spacing: 1px;
+}
+.community {
+  color: #055496;
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  font-family: "PT Serif", Sans-serif;
+  font-size: 22px;
+  font-weight: 500;
+  word-spacing: 1px;
+}
+.coustomQoute {
+  font-size: 60px;
+  display: flex;
+  justify-content: center;
+  color: #055496;
+  /* text-align: center !important; */
+}
+
+.carousel-bg {
+  background-color: none;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+/* quote */
+.quote-image {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  padding-top: 60px;
+  width: 80px;
+}
+/* text-style */
+.testimonial-style .testimonial-caption-style {
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 24px;
+  color: #354052;
+  line-height: 30px;
+  bottom: 40%;
+  text-shadow: none;
+  top: 10%;
+}
+.testimonial-style .testimonial-authors {
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 20px;
+  color: #354052;
+  line-height: 30px;
+  margin-top: 40px;
+}
+/* carousel-height-control */
+.testimonial-style .carousel-inner > .item {
+  padding-top: auto;
+  padding-bottom: auto;
+  height: 380px;
+}
+/* carousel-left-right-control */
+.testimonial-style .carousel-control.left {
+  background: none;
+  box-shadow: none;
+  text-shadow: none;
+}
+.testimonial-style .carousel-control.right {
+  background: none;
+  box-shadow: none;
+  text-shadow: none;
+}
+.testimonial-style .carousel-control {
+  color: #354052;
+}
+.testimonial-style .carousel-control:hover {
+  color: #354052;
+  text-decoration: none;
+  transition: background-color 1s ease;
+}
+/* indicators */
+.testimonial-style .carousel-indicators .active {
+  background-color: #fff;
+  width: 14px;
+  height: 14px;
+  transition: background 1s cubic-bezier(0.22, 0.61, 0.36, 1);
+}
+.testimonial-style .carousel-indicators li {
+  border: 2px solid #354052;
+  background-color: #354052;
+}
+/* Textimonial CSS Code End */
+
+.learn-btn {
+  font-family: "Inter", Sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0px;
+  fill: #ffffff;
+  color: #ffffff;
+  background-color: #055496;
+  border-style: solid;
+  border-width: 1px 1px 1px 1px;
+  border-color: #055496;
+  border-radius: 30px 30px 30px 30px;
+  padding: 12px 32px 12px 32px;
+}
+
+.latest-news {
+  color: #055496;
+  font-family: "PT Serif", Sans-serif;
+  font-size: 30px;
+  font-weight: 500;
+  word-spacing: 1px;
+  padding: 0;
+  margin: 0;
+  line-height: 1;
+  text-align: center;
+}
+.new-image {
+  background-color: #f9f9f9;
+}
+.card {
+  background-color: white;
+
+  width: 95%;
+  height: 400px;
+}
+.card img {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.card-heading {
+  color: #454545;
+  font-family: "Inter", Sans-serif;
+  text-align: center;
+  font-size: 15px;
+  font-weight: 600;
+  padding: 0;
+  margin: 0;
+  padding-top: 17px;
+  line-height: 1;
+}
+.card-para {
+  margin-top: 10px;
+  padding: 14px 10px 0px 10px;
+  font-size: 14.5px;
+  text-align: center;
+}
+.card-btn {
+  font-family: "Inter", Sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  text-transform: uppercase;
+  fill: #055496;
+  color: #055496;
+  background-color: #ffffff00;
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+}
+
+.demo-scc {
+  color: #055496;
+  font-family: "PT Serif", Sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+  margin-top: 20px;
+}
+.looking {
+  margin-bottom: 3px;
+  color: #454545;
+  font-family: "Inter", Sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+.getStarted {
+  background: url("img/Rectangle 6.png");
+  width: 100%;
+  height: 250px;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+.getStartedheading {
+  font-family: "PT Serif", Sans-serif;
+  font-size: 36px;
+  font-weight: bold;
+  margin-top: 43px;
+}
+.getStartedButton {
+  font-family: "Inter", Sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  text-transform: uppercase;
+  /* letter-spacing: 0px; */
+  /* fill: #FFFFFF; */
+  color: #ffffff;
+  background-color: #055496;
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  /* border-color: #055496; */
+  border-radius: 30px 30px 30px 30px;
+  padding: 12px 32px 12px 32px;
+}
+.sendMessage {
+  background-color: #055496;
+  border-radius: 50px;
+}
+.footer_icon i {
+  font-size: 20px !important;
+}
+.fa-facebook-f {
+  color: #3b5998;
+}
+.fa-twitter {
+  color: #55acee;
+}
+.fa-instagram {
+  color: transparent;
+  background: radial-gradient(
+    circle at 30% 107%,
+    #fdf497 0%,
+    #fdf497 5%,
+    #fd5949 45%,
+    #d6249f 60%,
+    #285aeb 90%
+  );
+  background: -webkit-radial-gradient(
+    circle at 30% 107%,
+    #fdf497 0%,
+    #fdf497 5%,
+    #fd5949 45%,
+    #d6249f 60%,
+    #285aeb 90%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.fa-linkedin {
+  color: #0976b4;
+}
+
+footer .list-unstyled li {
+  padding: 7px 0px;
+}
